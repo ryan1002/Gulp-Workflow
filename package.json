@@ -1,0 +1,27 @@
+{
+  "name": "gulp-workflow",
+  "version": "1.0.0",
+  "description": "Introducing a Gulp based development",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan1002/Gulp-Workflow.git"
+  },
+  "keywords": [
+    "gulp",
+    "npm"
+  ],
+  "author": "Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan1002/Gulp-Workflow/issues"
+  },
+  "homepage": "https://github.com/ryan1002/Gulp-Workflow#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
